@@ -1,0 +1,9 @@
+Django==1.9.7
+django-allauth==0.27.0
+django-nocaptcha-recaptcha==0.0.19
+oauth==1.0.1
+oauthlib==2.0.0
+psycopg2==2.6.2
+python-openid==2.2.5
+requests==2.11.1
+requests-oauthlib==0.6.2
