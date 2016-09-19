@@ -16,7 +16,7 @@ and click "Facebook" hyperlink.
 
 ## Captcha
 
-For testing if captcha works fine in sign up form, the site url must starts with *127.0.0.1*.
+For testing if captcha works fine in sign up form, site url must starts with *127.0.0.1*.
 
 E.g.
 
