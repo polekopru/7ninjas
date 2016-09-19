@@ -8,9 +8,9 @@ Due to Facebook app setting for Site URL and for local use it has to be *localho
 
 For Facebook sign in/sign up purposes try
 
-'''
+```
 localhost:8000/accounts/login/
-'''
+```
 
 and click "Facebook" hyperlink.
 
